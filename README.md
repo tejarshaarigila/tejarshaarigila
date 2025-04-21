@@ -35,6 +35,6 @@
 
 ## 🌟 Featured Projects
 - [FedAF](https://github.com/tejarshaarigila/fedaf): Python implementation of Aggregation-Free Federated Learning Framework as proposed in CVPR 2024 by Wang et.al.
-- [FedAF](https://github.com/tejarshaarigila/bank-locator): Spring Boot REST API that returns nearby banks within a 10-mile radius of given Zipcode using Google Maps APIs.
+- [Bank Locator](https://github.com/tejarshaarigila/bank-locator): Spring Boot REST API that returns nearby banks within a 10-mile radius of given Zipcode using Google Maps APIs.
 
 ---
