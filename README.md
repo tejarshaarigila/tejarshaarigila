@@ -29,7 +29,7 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tejarsha)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/TejarshaA)
+[![X](https://img.shields.io/badge/-X-black?style=flat-square&logo=X&logoColor=white)](https://X.com/TejarshaA)
 
 ---
 
