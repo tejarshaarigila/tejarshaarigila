@@ -1,14 +1,4 @@
-# Hi there, I'm Tejarsha 'TJ' Arigila! 👋
-
-## 🚀 About Me
-- 🛠️ I love building scalable systems and experimenting with AI models.
-- 🌱 I’m currently learning Spring Framework.
-- 💼 I am a Software Engineer with 2+ years of experience in Machine Learning and Big Data.
-- 💬 Ask me about Data Science.
-- 📫 Feel free to reach me at tejarsha.arg@gmail.com.
-- ⚡ Hobbies: Hiking, Chess, Music.
-
----
+# Hi there, I'm TJ! 👋
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, C++, SQL
