@@ -1,12 +1,5 @@
 # Hi there, I'm TJ! 👋
 
-## 🛠️ Tech Stack
-- **Languages:** Python, Java, C++, SQL
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Spring
-- **Tools & Platforms:** AWS, Azure
-
----
-
 ## 📈 GitHub Stats
 <div align="center">
 
