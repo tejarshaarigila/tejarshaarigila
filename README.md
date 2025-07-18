@@ -1,13 +1,5 @@
 # Hi there, I'm TJ! 👋
 
-## 📈 GitHub Stats
-<div align="center">
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tejarshaarigila&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejarshaarigila&layout=compact&theme=radical)
-
-</div>
-
 ---
 
 ## 🌐 Connect with Me
